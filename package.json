@@ -21,7 +21,8 @@
   "homepage": "https://github.com/classicCokie/simple-auth-server#readme",
   "dependencies": {
     "@koa/router": "^10.0.0",
-    "koa": "^2.13.1"
+    "koa": "^2.13.1",
+    "typeorm": "^0.2.34"
   },
   "devDependencies": {
     "@types/koa": "^2.13.3",
